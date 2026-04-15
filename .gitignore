@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+churn_env/
+.DS_Store
+*.log
+*.tmp
